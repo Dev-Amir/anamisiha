@@ -108,5 +108,3 @@ function jannah_content_width() {
 	 */
 	$GLOBALS['content_width'] = apply_filters( 'TieLabs/content_width', $content_width );
 }
-
-

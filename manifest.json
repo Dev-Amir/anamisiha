@@ -1,0 +1,23 @@
+{
+  "name": "پایگاه خبری آنامیسی ها",
+  "short_name": "آنامیسی ها",
+  "scope": "/",
+  "start_url": "/?source=pwa",
+  "icons": [
+    {
+      "src": "pwa-icon/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pwa-icon/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#2c2e32",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
