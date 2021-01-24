@@ -1,5 +1,6 @@
 <?php
 /**
+ * this is changed by amir hemmati.
  * The template for displaying 404 pages (not found)
  *
  */
